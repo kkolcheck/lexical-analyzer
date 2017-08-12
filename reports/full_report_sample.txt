@@ -1,0 +1,901 @@
+full_report_sample.txt
+2016/04/25 04:48:39
+
+137 total sentences
+2172 total words
+787 unique words
+9497 total characters
+15.854014 is the average number of words per sentence
+4.372468 is the average word length
+
+Top 50 Keywords
+--------
+1) moya: 19
+2) time: 12
+3) years: 9
+4) little: 9
+5) child: 8
+6) movie: 7
+7) holidays: 7
+8) way: 7
+9) help: 7
+10) hard: 6
+11) learned: 6
+12) old: 6
+13) children: 6
+14) family: 5
+15) school: 5
+16) year: 4
+17) stop: 4
+18) days: 4
+19) special: 4
+20) loved: 4
+21) kids: 4
+22) plugs: 4
+23) day: 4
+24) finally: 4
+25) just: 4
+26) turned: 4
+27) eventually: 4
+28) spd: 4
+29) started: 4
+30) noises: 4
+31) felt: 4
+32) know: 4
+33) ear: 4
+34) loud: 4
+35) sound: 4
+36) ran: 3
+37) tried: 3
+38) understand: 3
+39) meltdown: 3
+40) filled: 3
+41) screen: 3
+42) christmas: 3
+43) cause: 3
+44) autism: 3
+45) doctor: 3
+46) sensitivities: 3
+47) things: 3
+48) girl: 3
+49) crying: 3
+50) meant: 3
+
+Auxiliary Verbs
+--------
+1) can: 2
+2) could: 5
+3) might: 1
+4) will: 3
+5) would: 20
+31 total auxiliary verbs
+
+Conjunctions
+--------
+1) after: 4
+2) and: 70
+3) as: 23
+4) because: 4
+5) before: 2
+6) but: 5
+7) for: 24
+8) however: 1
+9) if: 8
+10) once: 3
+11) or: 8
+12) since: 2
+13) so: 8
+14) than: 2
+15) that: 43
+16) then: 1
+17) until: 2
+18) when: 12
+19) where: 2
+20) while: 4
+21) yet: 1
+229 total conjunctions
+
+Determiners
+--------
+1) a: 48
+2) all: 8
+3) an: 10
+4) any: 3
+5) each: 2
+6) every: 2
+7) her: 45
+8) my: 12
+9) no: 4
+10) other: 1
+11) our: 16
+12) some: 6
+13) that: 43
+14) the: 89
+15) their: 4
+16) these: 3
+17) this: 5
+18) those: 1
+19) your: 2
+304 total determiners
+
+Prepositions
+--------
+1) about: 1
+2) above: 1
+3) across: 1
+4) after: 4
+5) as: 23
+6) at: 14
+7) before: 2
+8) below: 1
+9) besides: 1
+10) between: 1
+11) beyond: 1
+12) but: 5
+13) by: 5
+14) down: 1
+15) during: 3
+16) following: 1
+17) for: 24
+18) from: 2
+19) in: 35
+20) into: 2
+21) less: 5
+22) like: 3
+23) of: 43
+24) off: 2
+25) on: 11
+26) out: 7
+27) outside: 2
+28) over: 5
+29) past: 1
+30) plus: 1
+31) saving: 1
+32) since: 2
+33) than: 2
+34) through: 9
+35) to: 60
+36) under: 1
+37) until: 2
+38) up: 3
+39) with: 27
+40) within: 2
+317 total prepositions
+
+Pronouns
+--------
+1) all: 8
+2) any: 3
+3) anyone: 1
+4) each: 2
+5) everyone: 2
+6) everything: 1
+7) her: 45
+8) herself: 1
+9) it: 8
+10) me: 7
+11) nothing: 2
+12) one: 6
+13) other: 1
+14) several: 1
+15) she: 51
+16) some: 6
+17) something: 2
+18) that: 43
+19) them: 4
+20) these: 3
+21) they: 8
+22) this: 5
+23) those: 1
+24) us: 10
+25) we: 47
+26) what: 5
+27) which: 2
+28) who: 2
+29) you: 5
+282 total pronouns
+
+Quantifiers
+--------
+1) all: 8
+2) any: 3
+3) certain: 1
+4) each: 2
+5) enough: 2
+6) less: 5
+7) little: 9
+8) lots: 2
+9) more: 1
+10) most: 2
+11) much: 5
+12) no: 4
+13) several: 1
+14) some: 6
+51 total quantifiers
+
+--------
+1) I do love this time of year
+Characters Per Word: 1 2 4 4 4 2 4
+Characters In Sentence: 21
+Words In Sentence: 7
+
+2) My reasons for loving it have changed over time as I have changed
+Characters Per Word: 2 7 3 6 2 4 7 4 4 2 1 4 7
+Characters In Sentence: 53
+Words In Sentence: 13
+
+3) When I was a little girl, Thanksgiving and Christmas were special because we had less days at school
+Characters Per Word: 4 1 3 1 6 4 12 3 9 4 7 7 2 3 4 4 2 6
+Characters In Sentence: 82
+Words In Sentence: 18
+
+4) Honestly, we lived in the country and tromping a half mile or so through thigh-high snow to get to the bus stop was not fun for an 8-year-old little girl
+Characters Per Word: 8 2 5 2 3 7 3 8 1 4 4 2 2 7 9 4 2 3 2 3 3 4 3 3 3 3 2 7 6 4
+Characters In Sentence: 119
+Words In Sentence: 30
+
+5) Snow would get packed down in my galoshes and my clothes would be wet by the time I arrived at school
+Characters Per Word: 4 5 3 6 4 2 2 8 3 2 7 5 2 3 2 3 4 1 7 2 6
+Characters In Sentence: 81
+Words In Sentence: 21
+
+6) My ears would hurt terribly with the least little breeze
+Characters Per Word: 2 4 5 4 8 4 3 5 6 6
+Characters In Sentence: 47
+Words In Sentence: 10
+
+7) So, being in a warm cozy home was just my cup of tea and why I loved days off of school
+Characters Per Word: 2 5 2 1 4 4 4 3 4 2 3 2 3 3 3 1 5 4 3 2 6
+Characters In Sentence: 66
+Words In Sentence: 21
+
+8) This in turn made me love the holidays
+Characters Per Word: 4 2 4 4 2 4 3 8
+Characters In Sentence: 31
+Words In Sentence: 8
+
+9) When I was in my 20�s the holiday season was important to me because I loved having my now grown up family gathered together again under one roof
+Characters Per Word: 4 1 3 2 2 1 3 7 6 3 9 2 2 7 1 5 6 2 3 5 2 6 8 8 5 5 3 4
+Characters In Sentence: 115
+Words In Sentence: 28
+
+10) I would get to see my two older brothers who, like me, had branched out on their own and were busy living their adult lives
+Characters Per Word: 1 5 3 2 3 2 3 5 8 3 4 2 3 8 3 2 5 3 3 4 4 6 5 5 5
+Characters In Sentence: 97
+Words In Sentence: 25
+
+11) I truly enjoyed seeing them
+Characters Per Word: 1 5 7 6 4
+Characters In Sentence: 23
+Words In Sentence: 5
+
+12) By the time I was in my early 30�s I had been married with children for a while
+Characters Per Word: 2 3 4 1 3 2 2 5 1 1 3 4 7 4 8 3 1 5
+Characters In Sentence: 59
+Words In Sentence: 18
+
+13) I found that I viewed holidays with a whole new perspective and greater gusto
+Characters Per Word: 1 5 4 1 6 8 4 1 5 3 11 3 7 5
+Characters In Sentence: 64
+Words In Sentence: 14
+
+14) Experiencing family festivities through the eyes of my children allowed me to re-enter that thrilling time of the holidays with awe and wonderment
+Characters Per Word: 12 6 11 7 3 4 2 2 8 7 2 2 7 4 9 4 2 3 8 4 3 3 10
+Characters In Sentence: 123
+Words In Sentence: 23
+
+15) The days of Christmas were filled with joy
+Characters Per Word: 3 4 2 9 4 6 4 3
+Characters In Sentence: 35
+Words In Sentence: 8
+
+16) The anticipation of opening gifts, the excitement, the curiosity of unknown treasures awaiting our discovery in the wrapping paper, and the food� that amazing food
+Characters Per Word: 3 12 2 7 5 3 10 3 9 2 7 9 8 3 9 2 3 8 5 3 3 4 4 7 4
+Characters In Sentence: 135
+Words In Sentence: 25
+
+17) We always baked a birthday cake for Jesus
+Characters Per Word: 2 6 5 1 8 4 3 5
+Characters In Sentence: 34
+Words In Sentence: 8
+
+18) It was a wondrous time
+Characters Per Word: 2 3 1 8 4
+Characters In Sentence: 18
+Words In Sentence: 5
+
+19) After I turned 34 we gave birth to our 4th child, Moya
+Characters Per Word: 5 1 6 2 4 5 2 3 2 5 4
+Characters In Sentence: 39
+Words In Sentence: 12
+
+20) She was quiet and gazed at us with a thoughtful and intense look, especially for a baby
+Characters Per Word: 3 3 5 3 5 2 2 4 1 10 3 7 4 10 3 1 4
+Characters In Sentence: 70
+Words In Sentence: 17
+
+21) She had lovely porcelain skin and cupid�s bow lips
+Characters Per Word: 3 3 6 9 4 3 6 3 4
+Characters In Sentence: 41
+Words In Sentence: 9
+
+22) Zoe, our oldest who was 6 at the time, prayed for a little sister non-stop after her second brother was born
+Characters Per Word: 3 3 6 3 3 2 3 4 6 3 1 6 6 7 5 3 6 7 3 4
+Characters In Sentence: 84
+Words In Sentence: 21
+
+23) She loved her two little brothers, but they would only stand so much dressing up in tutus and teeny tiny pig tails
+Characters Per Word: 3 5 3 3 6 8 3 4 5 4 5 2 4 8 2 2 5 3 5 4 3 5
+Characters In Sentence: 92
+Words In Sentence: 22
+
+24) Zoe was ready for a real sister to play with
+Characters Per Word: 3 3 5 3 1 4 6 2 4 4
+Characters In Sentence: 35
+Words In Sentence: 10
+
+25) Moya was meant to be; Moya was the answer to Zoe�s prayers
+Characters Per Word: 4 3 5 2 2 4 3 3 6 2 4 7
+Characters In Sentence: 45
+Words In Sentence: 12
+
+26) As a mother I could not be happier
+Characters Per Word: 2 1 6 1 5 3 2 7
+Characters In Sentence: 27
+Words In Sentence: 8
+
+27) However, the next four years rapidly became the setting of some big trials that filled our family with unknowns and much confusion
+Characters Per Word: 7 3 4 4 5 7 6 3 7 2 4 3 6 4 6 3 6 4 8 3 4 9
+Characters In Sentence: 108
+Words In Sentence: 22
+
+28) In fact, our holidays and special occasions could sometimes be described as stressful way beyond the usual busyness or preparation for them
+Characters Per Word: 2 4 3 8 3 7 9 5 9 2 9 2 9 3 6 3 5 8 2 11 3 4
+Characters In Sentence: 117
+Words In Sentence: 22
+
+29) Within the first year after Moya was born we went to the doctor for her scheduled check-up and immunizations
+Characters Per Word: 6 3 5 4 5 4 3 4 2 4 2 3 6 3 3 9 7 3 13
+Characters In Sentence: 89
+Words In Sentence: 19
+
+30) Within 24 hours of leaving the doctor�s office Moya became a different baby
+Characters Per Word: 6 5 2 7 3 7 6 4 6 1 9 4
+Characters In Sentence: 60
+Words In Sentence: 13
+
+31) She began crying, I mean �crying as if in extreme pain� crying
+Characters Per Word: 3 5 6 1 4 6 2 2 2 7 4 6
+Characters In Sentence: 48
+Words In Sentence: 12
+
+32) Nothing made her feel better
+Characters Per Word: 7 4 3 4 6
+Characters In Sentence: 24
+Words In Sentence: 5
+
+33) I thought it would go away eventually since I�m accustomed to my other kids not feeling great from their routine check-ups
+Characters Per Word: 1 7 2 5 2 4 10 5 2 10 2 2 5 4 3 7 5 4 5 7 8
+Characters In Sentence: 100
+Words In Sentence: 21
+
+34) But this� this was different
+Characters Per Word: 3 4 4 3 9
+Characters In Sentence: 23
+Words In Sentence: 5
+
+35) She became �distant�
+Characters Per Word: 3 6 7
+Characters In Sentence: 16
+Words In Sentence: 3
+
+36) She wouldn�t look us in the eyes anymore
+Characters Per Word: 3 7 4 2 2 3 4 7
+Characters In Sentence: 32
+Words In Sentence: 8
+
+37) She didn�t respond to our voices as if she recognized us
+Characters Per Word: 3 5 7 2 3 6 2 2 3 10 2
+Characters In Sentence: 45
+Words In Sentence: 11
+
+38) Moya would cry hard at the least little noise
+Characters Per Word: 4 5 3 4 2 3 5 6 5
+Characters In Sentence: 37
+Words In Sentence: 9
+
+39) The only thing that consoled her was a particular brightly colored movie called �Barbie of Swan Lake�
+Characters Per Word: 3 4 5 4 8 3 3 1 10 8 7 5 6 6 2 4 4
+Characters In Sentence: 83
+Words In Sentence: 17
+
+40) I discovered this accidentally one day when I turned the movie on for all four kids to watch while I washed dishes
+Characters Per Word: 1 10 4 12 3 3 4 1 6 3 5 2 3 3 4 4 2 5 5 1 6 6
+Characters In Sentence: 93
+Words In Sentence: 22
+
+41) Once the movie started, total silence entered our home
+Characters Per Word: 4 3 5 7 5 7 7 3 4
+Characters In Sentence: 45
+Words In Sentence: 9
+
+42) I was startled and ran to the living room to see what was wrong
+Characters Per Word: 1 3 8 3 3 2 3 6 4 2 3 4 3 5
+Characters In Sentence: 50
+Words In Sentence: 14
+
+43) She was STARING at the TV screen completely engaged
+Characters Per Word: 3 3 7 2 3 2 6 10 7
+Characters In Sentence: 43
+Words In Sentence: 9
+
+44) The moment the ending credits started rolling her wailing would fill the house again
+Characters Per Word: 3 6 3 6 7 7 7 3 7 5 4 3 5 5
+Characters In Sentence: 71
+Words In Sentence: 14
+
+45) She would stop instantly once the movie was rewound and the first scene began
+Characters Per Word: 3 5 4 9 4 3 5 3 7 3 3 5 5 5
+Characters In Sentence: 64
+Words In Sentence: 14
+
+46) That movie was our saving grace for a while
+Characters Per Word: 4 5 3 3 6 5 3 1 5
+Characters In Sentence: 35
+Words In Sentence: 9
+
+47) Nothing besides that movie seemed to take her focus off of the �pain�
+Characters Per Word: 7 7 4 5 6 2 4 3 5 3 2 3 4
+Characters In Sentence: 55
+Words In Sentence: 13
+
+48) I�d nurse her, hold her, change her, talk to her, and bathe her
+Characters Per Word: 2 5 3 4 3 6 3 4 2 3 3 5 3
+Characters In Sentence: 46
+Words In Sentence: 13
+
+49) For 3 years the doctors said she was fine
+Characters Per Word: 3 5 3 7 4 3 3 4
+Characters In Sentence: 32
+Words In Sentence: 9
+
+50) So, I tried everything I knew to do as a mom that already had three kids worth of experience
+Characters Per Word: 2 1 5 10 1 4 2 2 2 1 3 4 7 3 5 4 5 2 10
+Characters In Sentence: 73
+Words In Sentence: 19
+
+51) Something was different, something was wrong
+Characters Per Word: 9 3 9 9 3 5
+Characters In Sentence: 38
+Words In Sentence: 6
+
+52) Daily routine was hard enough, but holidays and special occasions were heart breaking
+Characters Per Word: 5 7 3 4 6 3 8 3 7 9 4 5 8
+Characters In Sentence: 72
+Words In Sentence: 13
+
+53) If we sang for an occasion she cried woefully
+Characters Per Word: 2 2 4 3 2 8 3 5 8
+Characters In Sentence: 37
+Words In Sentence: 9
+
+54) If we clapped and cheered during the children�s school programs she became angry and aggressive, as in: pinch, hit, punch, pull hair, and stomp on our feet
+Characters Per Word: 2 2 7 3 7 6 3 9 6 8 3 6 5 3 10 2 2 5 3 5 4 4 3 5 2 3 4
+Characters In Sentence: 122
+Words In Sentence: 27
+
+55) All the while she couldn�t speak one word to help us understand why she was behaving as she was
+Characters Per Word: 3 3 5 3 7 5 3 4 2 4 2 10 3 3 3 8 2 3 3
+Characters In Sentence: 76
+Words In Sentence: 19
+
+56) She only made noises and spoke gibberish
+Characters Per Word: 3 4 4 6 3 5 9
+Characters In Sentence: 34
+Words In Sentence: 7
+
+57) The doctor kept reassuring me that she would talk eventually
+Characters Per Word: 3 6 4 10 2 4 3 5 4 10
+Characters In Sentence: 51
+Words In Sentence: 10
+
+58) Living in the house was hard enough
+Characters Per Word: 6 2 3 5 3 4 6
+Characters In Sentence: 29
+Words In Sentence: 7
+
+59) She ran scared out of her mind at the sound of the toilet flushing
+Characters Per Word: 3 3 6 3 2 3 4 2 3 5 2 3 6 8
+Characters In Sentence: 53
+Words In Sentence: 14
+
+60) She screamed at the sound of the garage door opening
+Characters Per Word: 3 8 2 3 5 2 3 6 4 7
+Characters In Sentence: 43
+Words In Sentence: 10
+
+61) The vacuum made her hide in a closet with her fingers in her ears
+Characters Per Word: 3 6 4 3 4 2 1 6 4 3 7 2 3 4
+Characters In Sentence: 52
+Words In Sentence: 14
+
+62) Then, in the rare moments of silence, she would pace back and forth and walk in circles
+Characters Per Word: 4 2 3 4 7 2 7 3 5 4 4 3 5 3 4 2 7
+Characters In Sentence: 69
+Words In Sentence: 17
+
+63) Now, to increase her discomfort and misery consider exposure to the outside world
+Characters Per Word: 3 2 8 3 10 3 6 8 8 2 3 7 5
+Characters In Sentence: 68
+Words In Sentence: 13
+
+64) The external world is a place where you can�t control sound or anticipate loud noises
+Characters Per Word: 3 8 5 2 1 5 5 3 4 7 5 2 10 4 6
+Characters In Sentence: 70
+Words In Sentence: 15
+
+65) Noises outside would cause her to run in a panic with no judgement as to which way was safe
+Characters Per Word: 6 7 5 5 3 2 3 2 1 5 4 2 9 2 2 5 3 3 4
+Characters In Sentence: 73
+Words In Sentence: 19
+
+66) It was like she couldn�t hear me at all when I�d scream for her to stop and run to catch her as she ran into the middle of a street
+Characters Per Word: 2 3 4 3 7 4 2 2 3 4 2 6 3 3 2 4 3 3 2 5 3 2 3 3 4 3 6 2 1 6
+Characters In Sentence: 100
+Words In Sentence: 30
+
+67) The things we experienced in everyday life were only magnified during the holidays
+Characters Per Word: 3 6 2 11 2 8 4 4 4 9 6 3 8
+Characters In Sentence: 70
+Words In Sentence: 13
+
+68) The children being home from school more than usual, the brief change in schedule, social gatherings, special programs, music, fancy clothes that were not blanket soft� all these things were unbearable to Moya
+Characters Per Word: 3 8 5 4 4 6 4 4 5 3 5 6 2 8 6 10 7 8 5 5 7 4 4 3 7 4 3 5 6 4 10 2 4
+Characters In Sentence: 171
+Words In Sentence: 33
+
+69) We felt powerless as she went through bouts of unruly meltdowns and violent behavior
+Characters Per Word: 2 4 9 2 3 4 7 5 2 6 9 3 7 8
+Characters In Sentence: 71
+Words In Sentence: 14
+
+70) When Moya turned 4 years old we finally had a breakthrough in understanding of why every holiday and large event was torture to her, and subsequently us, as a family
+Characters Per Word: 4 4 6 5 3 2 7 3 1 12 2 13 2 3 5 7 3 5 5 3 7 2 3 3 12 2 2 1 6
+Characters In Sentence: 133
+Words In Sentence: 30
+
+71) After doctor visits, months of searching for answers, and countless tears, we were finally referred to an audiologist
+Characters Per Word: 5 6 6 6 2 9 3 7 3 9 5 2 4 7 8 2 2 11
+Characters In Sentence: 97
+Words In Sentence: 18
+
+72) They, in turn, referred us to an office that tests for Sensory Processing Disorder
+Characters Per Word: 4 2 4 8 2 2 2 6 4 5 3 7 10 8
+Characters In Sentence: 67
+Words In Sentence: 14
+
+73) That office was well versed in working with children on the Autism Spectrum
+Characters Per Word: 4 6 3 4 6 2 7 4 8 2 3 6 8
+Characters In Sentence: 63
+Words In Sentence: 13
+
+74) We learned that SPD is a condition in which the brain has trouble receiving and responding to information that comes in through the senses
+Characters Per Word: 2 7 4 3 2 1 9 2 5 3 5 3 7 9 3 10 2 11 4 5 2 7 3 6
+Characters In Sentence: 115
+Words In Sentence: 24
+
+75) Children with SPD often have a hard time interacting with others, coping with social and family relationships, regulating their emotions and just basic day-to-day functions
+Characters Per Word: 8 4 3 5 4 1 4 4 11 4 6 6 4 6 3 6 13 10 5 8 3 4 5 8 9
+Characters In Sentence: 144
+Words In Sentence: 25
+
+76) We were finally beginning to gain insight into Moya�s world
+Characters Per Word: 2 4 7 9 2 4 7 4 5 5
+Characters In Sentence: 49
+Words In Sentence: 10
+
+77) They pointed out that our little girl had classic symptoms and characteristics of a child with SPD and Autism, yet they said she couldn�t be officially diagnosed until she was 7 years old
+Characters Per Word: 4 7 3 4 3 6 4 3 7 8 3 15 2 1 5 4 3 3 6 3 4 4 3 7 2 10 9 5 3 3 5 3
+Characters In Sentence: 152
+Words In Sentence: 33
+
+78) We didn�t let that stop us
+Characters Per Word: 2 5 3 4 4 2
+Characters In Sentence: 20
+Words In Sentence: 6
+
+79) We knew she needed help and we set out to get help for her
+Characters Per Word: 2 4 3 6 4 3 2 3 3 2 3 4 3 3
+Characters In Sentence: 45
+Words In Sentence: 14
+
+80) We were not about to wait until she was 7 years old
+Characters Per Word: 2 4 3 5 2 4 5 3 3 5 3
+Characters In Sentence: 39
+Words In Sentence: 12
+
+81) Over some time filled with tons of research, lots of trial and error, and a fair amount of common sense, we learned how to manage her sensitivities and help her find her voice
+Characters Per Word: 4 4 4 6 4 4 2 8 4 2 5 3 5 3 1 4 6 2 6 5 2 7 3 2 6 3 13 3 4 3 4 3 5
+Characters In Sentence: 140
+Words In Sentence: 33
+
+82) We learned strategies for steering through stressful situations
+Characters Per Word: 2 7 10 3 8 7 9 10
+Characters In Sentence: 56
+Words In Sentence: 8
+
+83) If we planned on being out in a crowd, we relied on some amazing devices called �ear plugs�
+Characters Per Word: 2 2 7 2 5 3 2 1 5 2 6 2 4 7 7 6 3 5
+Characters In Sentence: 71
+Words In Sentence: 18
+
+84) Ear plugs became Moya�s best friends
+Characters Per Word: 3 5 6 5 4 7
+Characters In Sentence: 30
+Words In Sentence: 6
+
+85) We did go through several pair before we found the ones that she could handle having in her ears
+Characters Per Word: 2 3 2 7 7 4 6 2 5 3 4 4 3 5 6 6 2 3 4
+Characters In Sentence: 78
+Words In Sentence: 19
+
+86) Also, if we were at an indoor event, my husband and I took shifts between being with Moya and being social
+Characters Per Word: 4 2 2 4 2 2 6 5 2 7 3 1 4 6 7 5 4 4 3 5 6
+Characters In Sentence: 84
+Words In Sentence: 21
+
+87) Going to a movie theatre where the screen is BIG and the sound is amped for maximum effect meant that we sat in the very back of the theatre so that the screen was less intimidating, and again, ear plugs were the answer to these situations
+Characters Per Word: 5 2 1 5 7 5 3 6 2 3 3 3 5 2 5 3 7 6 5 4 2 3 2 3 4 4 2 3 7 2 4 3 6 3 4 12 3 5 3 5 4 3 6 2 5 10
+Characters In Sentence: 192
+Words In Sentence: 46
+
+88) Singing Happy Birthday meant that we asked the party guests to sing as quietly as possible
+Characters Per Word: 7 5 8 5 4 2 5 3 5 6 2 4 2 7 2 8
+Characters In Sentence: 75
+Words In Sentence: 16
+
+89) I�ll never forget the first time we did that
+Characters Per Word: 3 5 6 3 5 4 2 3 4
+Characters In Sentence: 35
+Words In Sentence: 9
+
+90) Moya actually smiled really big and pretended to conduct the singers
+Characters Per Word: 4 8 6 6 3 3 9 2 7 3 7
+Characters In Sentence: 58
+Words In Sentence: 11
+
+91) She most certainly felt celebrated as we all whispered our way through the song
+Characters Per Word: 3 4 9 4 10 2 2 3 9 3 3 7 3 4
+Characters In Sentence: 66
+Words In Sentence: 14
+
+92) We bowed out of large or late night events
+Characters Per Word: 2 5 3 2 5 2 4 5 6
+Characters In Sentence: 34
+Words In Sentence: 9
+
+93) I bet we seemed rude at times by not going
+Characters Per Word: 1 3 2 6 4 2 5 2 3 5
+Characters In Sentence: 33
+Words In Sentence: 10
+
+94) We worked hard to avoid really crowded places that might prove difficult for her
+Characters Per Word: 2 6 4 2 5 6 7 6 4 5 5 9 3 3
+Characters In Sentence: 67
+Words In Sentence: 14
+
+95) We felt that she was a cause worthy of seeming rude for
+Characters Per Word: 2 4 4 3 3 1 5 6 2 7 4 3
+Characters In Sentence: 44
+Words In Sentence: 12
+
+96) I tried to find soft simple clothes with no lace, no sparkly threads
+Characters Per Word: 1 5 2 4 4 6 7 4 2 4 2 7 7
+Characters In Sentence: 55
+Words In Sentence: 13
+
+97) Layers were best because she would get hot and cold easily
+Characters Per Word: 6 4 4 7 3 5 3 3 3 4 6
+Characters In Sentence: 48
+Words In Sentence: 11
+
+98) Being hot would cause her to have a meltdown (no pun intended) just as well as any chaotic environment would
+Characters Per Word: 5 3 5 5 3 2 4 1 8 2 3 8 4 2 4 2 3 7 11 5
+Characters In Sentence: 87
+Words In Sentence: 20
+
+99) We tried our very best to prepare her mentally if there was going to be a schedule change
+Characters Per Word: 2 5 3 4 4 2 7 3 8 2 5 3 5 2 2 1 8 6
+Characters In Sentence: 72
+Words In Sentence: 18
+
+100) To help her understand the course of the day we had a chart that she followed with little laminated pictures representing daily activities
+Characters Per Word: 2 4 3 10 3 6 2 3 3 2 3 1 5 4 3 8 4 6 9 8 12 5 10
+Characters In Sentence: 116
+Words In Sentence: 23
+
+101) Above a line across the middle of the chart, we lined the pictures up according to the events of the day
+Characters Per Word: 5 1 4 6 3 6 2 3 5 2 5 3 8 2 9 2 3 6 2 3 3
+Characters In Sentence: 83
+Words In Sentence: 21
+
+102) Once an event was over, she would move the picture below the line, and so on
+Characters Per Word: 4 2 5 3 4 3 5 4 3 7 5 3 4 3 2 2
+Characters In Sentence: 59
+Words In Sentence: 16
+
+103) Communication before Moya was 5 years old was extremely difficult
+Characters Per Word: 13 6 4 3 5 3 3 9 9
+Characters In Sentence: 55
+Words In Sentence: 10
+
+104) Sign language was a life saver as it was the primary way we communicated with Moya during that time
+Characters Per Word: 4 8 3 1 4 5 2 2 3 3 7 3 2 12 4 4 6 4 4
+Characters In Sentence: 81
+Words In Sentence: 19
+
+105) When we finally had an understanding of what we were dealing with, we found affordable speech therapy at our local college in the form of two 50 minute sessions a week
+Characters Per Word: 4 2 7 3 2 13 2 4 2 4 7 4 2 5 10 6 7 2 3 5 7 2 3 4 2 3 6 8 1 4
+Characters In Sentence: 134
+Words In Sentence: 31
+
+106) It was a God send
+Characters Per Word: 2 3 1 3 4
+Characters In Sentence: 13
+Words In Sentence: 5
+
+107) We used sign language less and less over the years as she learned words and sentences
+Characters Per Word: 2 4 4 8 4 3 4 4 3 5 2 3 7 5 3 9
+Characters In Sentence: 70
+Words In Sentence: 16
+
+108) We learned that putting Moya in a mix of loud children was counterproductive and did not help her interact with her peers, much less learn in a classroom
+Characters Per Word: 2 7 4 7 4 2 1 3 2 4 8 3 17 3 3 3 4 3 8 4 3 5 4 4 5 2 1 9
+Characters In Sentence: 125
+Words In Sentence: 28
+
+109) Eventually we started homeschooling our kids
+Characters Per Word: 10 2 7 13 3 4
+Characters In Sentence: 39
+Words In Sentence: 6
+
+110) We discovered that her siblings were an incredible help when it came to engaging her in play, conversation, and daily interaction
+Characters Per Word: 2 10 4 3 8 4 2 10 4 4 2 4 2 8 3 2 4 12 3 5 11
+Characters In Sentence: 107
+Words In Sentence: 21
+
+111) Plus, they understood her better than anyone else and helped her work on saying her words correctly
+Characters Per Word: 4 4 10 3 6 4 6 4 3 6 3 4 2 6 3 5 9
+Characters In Sentence: 82
+Words In Sentence: 17
+
+112) When Moya turned 6 years old she was able to communicate in a way that everyone could begin to understand (following lots of speech therapy and one on one time)
+Characters Per Word: 4 4 6 5 3 3 3 4 2 11 2 1 3 4 8 5 5 2 10 9 4 2 6 7 3 3 2 3 4
+Characters In Sentence: 128
+Words In Sentence: 30
+
+113) She told me that loud noises made her legs feel like they were on fire with ants crawling all over them
+Characters Per Word: 3 4 2 4 4 6 4 3 4 4 4 4 4 2 4 4 4 8 3 4 4
+Characters In Sentence: 83
+Words In Sentence: 21
+
+114) That was an amazing discovery and quite ground breaking
+Characters Per Word: 4 3 2 7 9 3 5 6 8
+Characters In Sentence: 47
+Words In Sentence: 9
+
+115) I�m not referring to the way her legs felt, but the fact she was able to communicate what she was feeling and experiencing
+Characters Per Word: 2 3 9 2 3 3 3 4 4 3 3 4 3 3 4 2 11 4 3 3 7 3 12
+Characters In Sentence: 98
+Words In Sentence: 23
+
+116) Now that I�ve shared some of the ways we managed her sensitivities and developed communication skills, I want to share how things have changed
+Characters Per Word: 3 4 3 6 4 2 3 4 2 7 3 13 3 9 13 6 1 4 2 5 3 6 4 7
+Characters In Sentence: 117
+Words In Sentence: 24
+
+117) She started learning how to manage sensitivities all by herself
+Characters Per Word: 3 7 8 3 2 6 13 3 2 7
+Characters In Sentence: 54
+Words In Sentence: 10
+
+118) She would ask for ear plugs to carry with her in-case she needed them
+Characters Per Word: 3 5 3 3 3 5 2 5 4 3 6 3 6 4
+Characters In Sentence: 55
+Words In Sentence: 14
+
+119) She learned to recognize the feelings and emotions that would trigger a meltdown
+Characters Per Word: 3 7 2 9 3 8 3 8 4 5 7 1 8
+Characters In Sentence: 68
+Words In Sentence: 13
+
+120) She would inform us that her stress level was rising or she would let us know that she needed to go to a quieter room
+Characters Per Word: 3 5 6 2 4 3 6 5 3 6 2 3 5 3 2 4 4 3 6 2 2 2 1 7 4
+Characters In Sentence: 93
+Words In Sentence: 25
+
+121) She used pacing as a soothing and refocusing tool when she was uncomfortable in any way
+Characters Per Word: 3 4 6 2 1 8 3 10 4 4 3 3 13 2 3 3
+Characters In Sentence: 72
+Words In Sentence: 16
+
+122) Moya is 12 years old now
+Characters Per Word: 4 2 5 3 3
+Characters In Sentence: 17
+Words In Sentence: 6
+
+123) She�s changing by leaps and bounds
+Characters Per Word: 4 8 2 5 3 6
+Characters In Sentence: 28
+Words In Sentence: 6
+
+124) Some of the sensory issues have declined with each year of maturing and therapy
+Characters Per Word: 4 2 3 7 6 4 8 4 4 4 2 8 3 7
+Characters In Sentence: 66
+Words In Sentence: 14
+
+125) She still has anxiety in certain situations, and loud music or crowds can still repel her, but I�m blown away at how she manages to push through and move past so much of it because she wants to enjoy what everyone else enjoys
+Characters Per Word: 3 5 3 7 2 7 10 3 4 5 2 6 3 5 5 3 3 2 5 4 2 3 3 7 2 4 7 3 4 4 2 4 2 2 7 3 5 2 5 4 8 4 6
+Characters In Sentence: 180
+Words In Sentence: 43
+
+126) Now, our holidays are so wonderful
+Characters Per Word: 3 3 8 3 2 9
+Characters In Sentence: 28
+Words In Sentence: 6
+
+127) Since those first illuminating days when Moya was 4, we have come an incredibly far distance
+Characters Per Word: 5 5 5 12 4 4 4 3 2 4 4 2 10 3 8
+Characters In Sentence: 75
+Words In Sentence: 16
+
+128) We have worked hard and studied long to figure out what works for her
+Characters Per Word: 2 4 6 4 3 7 4 2 6 3 4 5 3 3
+Characters In Sentence: 56
+Words In Sentence: 14
+
+129) Through dedication, love, determination, and hope, Moya has become one of the most kind, thoughtful, gentle and caring little girls that we, as her parents, could imagine
+Characters Per Word: 7 10 4 13 3 4 4 3 6 3 2 3 4 4 10 6 3 6 6 5 4 2 2 3 7 5 7
+Characters In Sentence: 136
+Words In Sentence: 27
+
+130) I know that not every Autistic child will make some of the changes that Moya has made
+Characters Per Word: 1 4 4 3 5 8 5 4 4 4 2 3 7 4 4 3 4
+Characters In Sentence: 69
+Words In Sentence: 17
+
+131) I still hold dear that each autistic child, or any child with unique needs, has a right to be loved, nurtured, and taught as much as they can absorb
+Characters Per Word: 1 5 4 4 4 4 8 5 2 3 5 4 6 5 3 1 5 2 2 5 8 3 6 2 4 2 4 3 6
+Characters In Sentence: 116
+Words In Sentence: 29
+
+132) I hope that these bits of our story have been inspiring, encouraging, and helpful
+Characters Per Word: 1 4 4 5 4 2 3 5 4 4 9 11 3 7
+Characters In Sentence: 66
+Words In Sentence: 14
+
+133) Just know that you are not alone if you have a child diagnosed with SPD, CAPD or Autism
+Characters Per Word: 4 4 4 3 3 3 5 2 3 4 1 5 9 4 3 4 2 6
+Characters In Sentence: 69
+Words In Sentence: 18
+
+134) You�re not a bad parent when your child has a meltdown
+Characters Per Word: 5 3 1 3 6 4 4 5 3 1 8
+Characters In Sentence: 43
+Words In Sentence: 11
+
+135) When the day is long, rest will come eventually
+Characters Per Word: 4 3 3 2 4 4 4 4 10
+Characters In Sentence: 38
+Words In Sentence: 9
+
+136) Know that all of us at the MOYA Foundation are cheering you on, praying for you, and believing that your child has a purpose and a destiny that they will fulfill
+Characters Per Word: 4 4 3 2 2 2 3 4 10 3 8 3 2 7 3 3 3 9 4 4 5 3 1 7 3 1 7 4 4 4 7
+Characters In Sentence: 129
+Words In Sentence: 31
+
+137) Merry Christmas and Happy New Year
+Characters Per Word: 5 9 3 5 3 4
+Characters In Sentence: 29
+Words In Sentence: 6
+
